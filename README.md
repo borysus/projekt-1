@@ -1,1 +1,1 @@
-# projekt-1
+# PHP Instagram clone
